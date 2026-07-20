@@ -1,0 +1,6 @@
+{
+  "name": "MG AI",
+  "description": "A highly intelligent, personal AI assistant featuring bimodal chat, offline companion mode, device automation, and a creative image/video suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
